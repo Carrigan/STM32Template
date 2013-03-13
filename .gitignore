@@ -1,0 +1,8 @@
+*.plg
+*.Brian
+*.dep
+*.bak
+/obj/
+/lst/
+/doc/
+JLink*

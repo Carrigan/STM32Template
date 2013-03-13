@@ -1,3 +1,9 @@
+/**
+ *	@file		main.c
+ *	@author	Brian Carrigan
+ *	@brief	The main application file
+ */
+
 #include "stm32f10x.h"
 #include "stm32f10x_conf.h"
 
